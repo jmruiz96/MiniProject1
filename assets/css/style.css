@@ -20,7 +20,7 @@ main {
 
 li { 
     display: inline;
-    padding: 0px 20xpx;
+    padding: 0px 20px;
 }
 
 a {
@@ -69,7 +69,7 @@ form {
     margin: 0px auto;
     width: 500px;
     padding: 10px;
-    border: 5px #DDAF94;
+    border: 5px solid #DDAF94;
     border-radius: 20px;
 }
 
